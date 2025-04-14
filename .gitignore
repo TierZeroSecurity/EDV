@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+
+.DS_Store
